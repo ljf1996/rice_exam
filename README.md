@@ -1,6 +1,7 @@
 # ANOVAR
 ## 1 背景
 水稻已知QTN检测和籼粳分化, 参考基因组版本MSU7
+<br>
 https://rice.uga.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/version_7.0/all.dir/
 ## 2 使用方法
 `work1.sh,work2.sh,work3.tidyResult.sh`
