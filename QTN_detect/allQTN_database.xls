@@ -1,0 +1,361 @@
+QTN序号	基因名称	Trait_Category	基因ID_MSU7	基因ID_RAP	Alt_Allele_Function	基因描述	Chr	Pos_7.0	参考基因型	变异基因型	Alt_Allele_Regulate_Direction	性状类型	功能表现型	变异基因型调控方向	有利等位基因型（仅参考）	Favorable_Alleles(reference only)	参考文献
+QTN1	Gn1a/OsCKX2	Yield components	LOC_Os01g10110	Os01g0197700	increasing grain number	cytokinin dehydrogenase precursor, putative, expressed	Chr1	5271719	TTCAGCCATGGG	T	Positive	产量	增加粒数	正调控	有利	Superior	
+QTN2	Gn1a/OsCKX2	Yield components	LOC_Os01g10110	Os01g0197700	increasing grain number	cytokinin dehydrogenase precursor, putative, expressed	Chr1	5270928	A	C	Positive	产量	增加粒数	正调控	有利	Superior	
+QTN3	Rf3/OsMADS3	Yield components	LOC_Os01g10504	Os01g0201700	fertility restoration	OsMADS3 - MADS-box family gene with MIKCc type-box, expressed	Chr1	5568692	T	C	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN4	DPL1	Yield components	LOC_Os01g15448	Os01g0258600	hybrid incompatibility	NA	Chr1	8657646	T	<INS>	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN5	ESA1	Yield components	LOC_Os01g34010	Os01g0524100	hybrid incompatibility	expressed protein	Chr1	18722895	C	T	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN6	SaF	Yield components	LOC_Os01g39670	Os01g0578500	hybrid male sterility	OsFBD1 - F-box and FBD domain containing protein, expressed	Chr1	22376434	C	T	Negative	产量	杂交雄性不育	负调控	视情况	Unknown	
+QTN7	SaM	Yield components	LOC_Os01g39680	Os01g0578700	hybrid male sterility	expressed protein	Chr1	22381235	T	G	Negative	产量	杂交雄性不育	负调控	视情况	Unknown	
+QTN8	NOG1	Yield components	LOC_Os01g54860	Os01g0752200	increasing grain number	enoyl-CoA hydratase%2Fisomerase family protein, putative, expressed	Chr1	31558876	G	GCAAAGTTGCCAT	Positive	产量	增加粒数	正调控	有利	Superior	
+QTN9	Hwi2	Yield components	LOC_Os01g58290	Os01g0795400	interspecific hybrid weakness	NA	Chr1	33695501	A	T	Negative	产量	种间杂交弱	负调控	视情况	Unknown	
+QTN10	LAX1	Yield components	LOC_Os01g61480	Os01g0831000	increasing grain number	helix-loop-helix DNA-binding domain containing protein, expressed	Chr1	35558484	C	A	Positive	产量	增加粒数	正调控	有利	Superior	
+QTN11	LAX1	Yield components	LOC_Os01g61480	Os01g0831000	increasing grain number	helix-loop-helix DNA-binding domain containing protein, expressed	Chr1	35555900	T	C	Positive	产量	增加粒数	正调控	有利	Superior	
+QTN12	LRK1	Yield components	LOC_Os02g05980	Os02g0154200	decreasing yield	phytosulfokine receptor precursor, putative, expressed	Chr2	2974723	A	<DEL>	Negative	产量	减少产量	负调控	不利	Inferior	
+QTN13	tms5	Yield components	LOC_Os02g12290	Os02g0214300	thermosensitive male sterility	nuclear ribonuclease Z, putative, expressed	Chr2	6397412	C	A	Negative	产量	热敏性雄性不育	负调控	视情况	Unknown	
+QTN14	GW2	Yield components	LOC_Os02g14720	Os02g0244100	larger grain width and weight	expressed protein	Chr2	8117283	CA	C	Positive	产量	更大粒宽和粒重	正调控	有利	Superior	
+QTN15	Rf2	Yield components	LOC_Os02g17380	Os02g0274000	fertility restoration	EMB1303, putative, expressed	Chr2	9997737	C	T	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN16	qNGR2/GRF4	Yield components	LOC_Os02g47280	Os02g0701300	larger grain size and higher nitrogen use efficiency	growth-regulating factor, putative, expressed	Chr2	28865723	G	T	Positive	产量	大粒与氮高效	正调控	有利	Superior	
+QTN17	OsLG3	Yield components	LOC_Os03g08470	Os03g0183000	increasing grain length	AP2 domain containing protein, expressed	Chr3	4353347	A	C	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN18	OsLG3/OsERF62/OsRAF	Yield components	LOC_Os03g08470	Os03g0183000	increasing drought tolerance	AP2 domain containing protein, expressed	Chr3	4352886	T	A	Positive	产量	提高抗旱性	正调控	有利	Superior	
+QTN19	qLGY3/OsMADS1/GW3p6/OsLG3b	Yield components	LOC_Os03g11614	Os03g0215400	increasing grain length	OsMADS1 - MADS-box family gene with MIKCc type-box, expressed	Chr3	6053303	C	A	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN20	Sc/DUF1618	Yield components	LOC_Os03g14310	Os03g0247300	hybrid male sterility	NA	Chr3	<MNP>	Ref	<MNP>	Negative	产量	杂交雄性不育	负调控	视情况	Unknown	
+QTN21	GS3	Yield components	NA	Os03g0407400	increasing grain length	NA	Chr3	16733441	G	T	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN22	GL3.2/CYP78A5	Yield components	LOC_Os03g30420	Os03g0417700	deceasing grain length	cytochrome P450, putative, expressed	Chr3	17340602	T	C	Negative	产量	减小粒长	负调控	不利	Inferior	
+QTN23	GL3.1/qGL3	Yield components	LOC_Os03g44500	Os03g0646900	increasing grain length	serine%2Fthreonine protein phosphatase, putative, expressed	Chr3	25046741	G	T	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN24	LOX-3	Yield components	LOC_Os03g49350	Os03g0700400	decreasing generation of stale flavor	NA	Chr3	28093193	G	A	Negative	产量	减少陈味生成	负调控	有利	Superior	
+QTN25	GL3.3/qTGW3	Yield components	LOC_Os03g62500	Os03g0841800	increasing grain length	CGMC_GSK.5 - CGMC includes CDA, MAPK, GSK3, and CLKC kinases, expressed	Chr3	35390422	C	T	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN26	GNP1	Yield components	LOC_Os03g63970	Os03g0856700	increaing grain number and plant height	gibberellin 20 oxidase 1, putative, expressed	Chr3	36150781	G	A	Positive	产量	增加粒数和株高	正调控	有利	Superior	
+QTN27	S28/mtRPL27a	Yield components	LOC_Os04g25540	Os04g0321500	hybrid incompatibility	NA	Chr4	14804882	C	T	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN28	DGS1/RPC4	Yield components	LOC_Os04g32350	Os04g0394500	hybrid incompatibility	NA	Chr4	19403332	T	C	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN29	SPIKE/NAL1/LSCHL4/GPS	Yield components	LOC_Os04g52479	Os04g0615000	decreasing leaf width and yield	peptidase, trypsin-like serine and cysteine proteases, putative, expressed	Chr4	31212801	A	G	Negative	产量	减小叶宽和产量	负调控	不利	Inferior	
+QTN30	PTB1	Yield components	LOC_Os05g05280	Os05g0145000	increasing setting rate	zinc finger family protein, putative, expressed	Chr5	2604473	G	A	Positive	产量	提高结实率	正调控	有利	Superior	
+QTN31	GS5	Yield components	LOC_Os05g06660	Os05g0158500	decreasing grain width	OsSCP26 - Putative Serine Carboxypeptidase homologue, expressed	Chr5	3444274	C	T	Negative	产量	减小粒宽	负调控	不利	Inferior	
+QTN32	GS5	Yield components	LOC_Os05g06660	Os05g0158500	decreasing grain width	OsSCP26 - Putative Serine Carboxypeptidase homologue, expressed	Chr5	3444712	G	A	Negative	产量	减小粒宽	负调控	不利	Inferior	
+QTN33	GW5/GSE5/qSW5	Yield components	LOC_Os05g09520	Os05g0187500	decreasing grain width	IQ calmodulin-binding motif family protein, expressed	Chr5	5365256	G	A	Negative	产量	减小粒宽	负调控	不利	Inferior	
+QTN34	GW5/GSE5/qSW5	Yield components	LOC_Os05g09520	Os05g0187500	decreasing grain width	NA	Chr5	5365122-5366701	Present (0|0)	Present (1|1)	Negative	产量	减小粒宽	负调控	不利	Inferior	
+QTN35	OsEBS	Yield components	LOC_Os05g51360	Os05g0591400	shorter plant height	DnaK family protein, putative, expressed	Chr5	29455208	AATTTTGTATGGGTACTAGCCATGCAATTGTGCGGATCACCCGGCTAGTTCGACGAATTCAAGCGTTTTTTGGGTTGCAGCGTTTGGAAGGAGGCCCAAATTAAAGTGGTGATCGAAATTGTCAAGTGCTTGAGTAGATAGAGATTTTGTTTGGTTGGCACTACCGAAGCATGCATTGTTGGAGTGGGATGCCATAGAGCTGCGATCAAGATCCGACGGCTCCCAATGGCTCTGGTGACATGTCTCCTTGACACTTTCCAAAAACGGACAATTGGTCGGTTGATGTTGGGTTCCTTATTTGTACTACTCCAGAAGTATATAAAAAGCGGAAGTTCCCAATGCAACAAGAGGAAGACGCCATTGGAGTCCAATTAACTTGAATAATGGCGCGTCGTCGTCTTGTCCTGCTGCTTCTCATCATTGGTACGTTATTATACTCATGGAGTAGGATGGTTAATTTGTTGATTTGCAGTTAGCGGAGGAGTAATTAATTAATTATGTTATTAATCTTGTGTTGGCATGGCAGCCGCGGCGGGTGCGGCGGCGTTTGGGATCCGACGAGATGCGCCCAAGGCATACTGCTTCTACGGCATTGAGTGGACGGGAGTGCCTTACTTGCCGGGCACCGCCGCCGCCATTTATATCGGCAACACCAACTCCTGCATCGCCGGCTACCACTCGCCGCCGGACACGGCCACCTCCTACCGGTTCTGCATCCCCTCCTGGGTGGCCTTCACCGCCAACGCCACCACCCTCTGCGGCCAACCCGCCGTCGACCACTCCGCCGCCATCTCCGGCTTCAAGCGACTCATCGGCCTACAGCCGGGAGATCCTCACGCCAAGAGGGTGGCGCAGATTGCGCCCTACAAGCTGGGGGAAAAGATCGGGAGATGCAGCATCCAGGTCCAACTGGACGATGGCGCCAAGTGCCGTGTGGAGG	A	Positive	产量	株高降低	正调控	视情况	Unknown	
+QTN36	GS6/DLT/OsGRAS-32/SMOS2/D62	Yield components	LOC_Os06g03710	Os06g0127800	decreasing grain size	DELLA protein SLR1, putative, expressed	Chr6	1468526	T	TCTCTCACTCTCA,TCTCTCA,TCTCTCACTCTCACTCTCA	Negative	产量	减小谷粒	负调控	不利	Inferior	
+QTN37	DPL2	Yield components	LOC_Os06g08510	Os06g0184100	hybrid incompatibility	NA	Chr6	4201227	C	T	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN38	S5-3/ORF3	Yield components	LOC_Os06g10990	Os06g0212900	hybrid incompatibility	NA	Chr6	5745402	C	CCAGTGATCGAAAT	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN39	S5-4/ORF4/S5-ORF4	Yield components	LOC_Os06g11000	NA	hybrid incompatibility	NA	Chr6	5758523	AGCCGCGTAGCT	A	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN40	S5	Yield components	LOC_Os06g11010	Os06g0213100	hybrid compatibility	NA	Chr6	5759744	A	ATTAAATTT	Positive	产量	杂交不亲和	正调控	视情况	Unknown	
+QTN41	S5	Yield components	LOC_Os06g11010	Os06g0213100	hybrid compatibility	NA	Chr6	5761369	TACAACGATCC	T	Positive	产量	杂交不亲和	正调控	视情况	Unknown	
+QTN42	S5	Yield components	LOC_Os06g11010	Os06g0213100	hybrid compatibility	NA	Chr6	5759611	TCGCTCCTACGAATCCTGCCCCTGAGTAACAATGACTGACTTTTAATTTGTTTGCAGCTAGGGTGGGGATCGAGATGGTGATCTTGGAGCAGCCACAGCTGCTCCTTCTTCTTCTTCTTCTTGTAGCAGCTGCAGCTGCAA	TTAAT	Positive	产量	杂交不亲和	正调控	视情况	Unknown	
+QTN43	TGW6	Yield components	LOC_Os06g41850	Os06g0623700	increasing grain weight	SMP-30%2FGluconolaconase%2FLRE-like region containing protein, expressed	Chr6	25093552	CG	C	Positive	产量	增加粒重	正调控	有利	Superior	
+QTN44	TGW6	Yield components	LOC_Os06g41850	Os06g0623700	increasing grain weight	SMP-30%2FGluconolaconase%2FLRE-like region containing protein, expressed	Chr6	25093498	CCGCT	C	Positive	产量	增加粒重	正调控	有利	Superior	
+QTN45	GW6a/OsglHAT1	Yield components	LOC_Os06g44100	Os06g0650300	increasing grain weight and plant height	HLS, putative, expressed	Chr6	26592357	C	T	Positive	产量	增加粒重和株高	正调控	有利	Superior	
+QTN46	OsSNB	Yield components	LOC_Os07g13170	Os07g0235800	increasing grain length	AP2 domain containing protein, expressed	Chr7	7545012	TTTCAGGTTACAAG	T	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN47	S7	Yield components	LOC_Os07g27180	Os07g0455100	hybrid compatibility	NA	Chr7	15787003	G	T	Positive	产量	杂交不亲和	正调控	视情况	Unknown	
+QTN48	OsSPL13/GLW7	Yield components	LOC_Os07g32170	Os07g0505200	increasing grain size	OsSPL13 - SBP-box gene family member, expressed	Chr7	19103243	AGTGGAA	A	Positive	产量	增大谷粒	正调控	有利	Superior	
+QTN49	GW7	Yield components	LOC_Os07g41200	Os07g0603300	increasing grain length	expressed protein	Chr7	24669233	CTATCACTTTCT	C	Positive	产量	增加粒长	正调控	有利	Superior	
+QTN50	GE/CYP78A13/BG2	Yield components	LOC_Os07g41240	Os07g0603700	increasing grain size	cytochrome P450, putative, expressed	Chr7	24714487	A	C	Positive	产量	增大谷粒	正调控	有利	Superior	
+QTN51	GE/CYP78A13/BG2	Yield components	LOC_Os07g41240	Os07g0603700	increasing grain size	cytochrome P450, putative, expressed	Chr7	24714768	G	T	Positive	产量	增大谷粒	正调控	有利	Superior	
+QTN52	SGDP7/FZP	Yield components	LOC_Os07g47330	Os07g0669500	loose panicle	AP2 domain containing protein, expressed	Chr7	28306257	C	CGCGTGCGCGTCCGTGCGT	Positive	产量	宽松的穗	正调控	不利	Inferior	
+QTN53	RF6	Yield components	LOC_Os08g01870	Os08g0110200	fertility restoration	NA	Chr8	537049	A	<DUP:TANDEM>	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN54	qWS8/ipa1-2D/IPA1	Yield components	LOC_Os08g39890	Os08g0509600	increasing grain number and lodging resistance	OsSPL14 - SBP-box gene family member, expressed	Chr8	25282468	G	<DUP:TANDEM>	Positive	产量	增加粒数和抗倒伏性	正调控	有利	Superior	
+QTN55	GW8/OsSPL16	Yield components	LOC_Os08g41940	Os08g0531600	increasing grain width	OsSPL16 - SBP-box gene family member, expressed	Chr8	26501540	TGCG	T	Positive	产量	增加粒宽	正调控	有利	Superior	
+QTN56	GW8/OsSPL16	Yield components	LOC_Os08g41940	Os08g0531600	increasing grain width	OsSPL16 - SBP-box gene family member, expressed	Chr8	26505387	C	A	Positive	产量	增加粒宽	正调控	有利	Superior	
+QTN57	Rf4	Yield components	LOC_Os10g35240	Os10g0495200	non-restorer	NA	Chr10		C	<INS>	Negative	产量	非恢复系	负调控	视情况	Unknown	
+QTN58	Rf4	Yield components	LOC_Os10g35240	Os10g0495200	non-restorer	Rf1, mitochondrial precursor, putative, expressed	Chr10	18834887	C	<INS>	Negative	产量	非恢复系	负调控	视情况	Unknown	
+QTN59	Rf4	Yield components	LOC_Os10g35240	Os10g0495200	fertility restoration	Rf1, mitochondrial precursor, putative, expressed	Chr10	18835456	T	A	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN60	Rf-1/Rf1a/Rf1/PPR791	Yield components	LOC_Os10g35440	Os10g0497432	fertility restoration	NA	Chr10	18952469	C	CA	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN61	RF1b	Yield components	LOC_Os10g35640	Os10g0499500	fertility restoration	NA	Chr10	19058375	G	A	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN62	GFR1	Yield components	LOC_Os10g36400	Os10g0508100	decreasing grain-filling rate	GIL1, putative, expressed	Chr10	19462395	CGCG	C,CGCGGCG	Negative	产量	灌浆速率降低	负调控	不利	Inferior	
+QTN63	HSA1a	Yield components	LOC_Os12g39880	Os12g0589400	hybrid incompatibility	NA	Chr12	24647360	TA	T	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN64	HSA1b	Yield components	LOC_Os12g39920	Os12g0589700	hybrid incompatibility	expressed protein	Chr12	24669797	GA	G	Negative	产量	杂交不亲和	负调控	视情况	Unknown	
+QTN65	P/TMS12-1/pms3/LDMAR/pms3; p/tms12-1; IncRNA; LDM	Yield components	LOC_Os12g36030	Os12g0545900	photoperiod-sensitive male sterility	NA	Chr12	22054886	C	G	Negative	产量	光敏性雄性不育	负调控	视情况	Unknown	
+QTN66	Pms1/PMS1T	Yield components	NA	NA	photoperiod-sensitive male sterility	NA	Chr7	6693475	G	T	Negative	产量	光敏性雄性不育	负调控	视情况	Unknown	
+QTN67	Rf17/RMS	Yield components	LOC_Os04g40020	Os04g0475900	fertility restoration	NA	Chr4	23816490	A	NA	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN68	RF5	Yield components	LOC_Os10g35440	Os10g0497432	fertility restoration	NA	Chr10	RF5	NA	NA	Positive	产量	育性恢复	正调控	视情况	Unknown	
+QTN69	HESO1/OsHESO1	Heading date	LOC_Os01g62780	Os01g0846450	delaying heading date under LD	NA	Chr1	36355847	G	A	Positive	抽穗期	在长日照下抽穗延迟	正调控	视情况	Unknown	
+QTN70	OsMADS51	Heading date	LOC_Os01g69850	Os01g0922800	delaying heading date	OsMADS65 - MADS-box family gene with MIKC%2A type-box, expressed	Chr1	40344413	ACACCACCACACACACG	A	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN71	OsMADS51	Heading date	LOC_Os01g69850	Os01g0922800	delaying heading date	OsMADS65 - MADS-box family gene with MIKC%2A type-box, expressed	Chr1	40363925	GAGGA	G	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN72	OsCOL4	Heading date	LOC_Os02g39710	Os02g0610500	promoting heading date	CCT%2FB-box zinc finger protein, putative, expressed	Chr2	23990288	C	A	Negative	抽穗期	抽穗提前	负调控	视情况	Unknown	
+QTN73	OsCOL4	Heading date	LOC_Os02g39710	Os02g0610500	promoting heading date	CCT%2FB-box zinc finger protein, putative, expressed	Chr2	23991055	GTGCA	G	Negative	抽穗期	抽穗提前	负调控	视情况	Unknown	
+QTN74	DTH2/Hd7	Heading date	LOC_Os02g49230	Os02g0724000	delaying heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr2	30096330	A	G	Positive	抽穗期	在长日照下抽穗延迟	正调控	视情况	Unknown	
+QTN75	Ehd4	Heading date	LOC_Os03g02160	Os03g0112700	delaying heading date	zinc finger C-x8-C-x5-C-x3-H type family protein, expressed	Chr3	718648	A	T	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN76	Ef-cd	Heading date	NA	Os03g0122500	promoting heading date	NA	Chr3	1257892	TGGGACAAATCCTGAGAGTTAAAAGTTGTTATATTTTAA	TAG	Negative	抽穗期	抽穗提前	负调控	视情况	Unknown	
+QTN77	OsMADS50/Hd9/OsSOC1/DTH3	Heading date	LOC_Os03g03070	Os03g0122600	delaying heading date	NA	Chr3	1270327	T	C	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN78	Hd6	Heading date	LOC_Os03g55389	Os03g0762000	delaying heading date under LD	casein kinase II subunit alpha-1, putative, expressed	Chr3	31512460	A	T	Positive	抽穗期	在长日照下抽穗延迟	正调控	视情况	Unknown	
+QTN79	Hd16	Heading date	LOC_Os03g57940	Os03g0793500	promoting heading date under LD	CK1_CaseinKinase_1a.4 - CK1 includes the casein kinase 1 kinases, expressed	Chr3	33002789	G	A	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN80	EL1	Heading date	LOC_Os03g57940	Os03g0793500	promoting heading date under LD	CK1_CaseinKinase_1a.4 - CK1 includes the casein kinase 1 kinases, expressed	Chr3	33001571	G	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN81	Hd17/Hd3b	Heading date	LOC_Os06g05060	Os06g0142600	delaying heading date	ELF3 protein, putative, expressed	Chr6	2235191	A	G	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN82	RFT1	Heading date	LOC_Os06g06300	Os06g0157500	delaying heading date	NA	Chr6	2928178	G	A	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN83	Hd3a	Heading date	LOC_Os06g06320	Os06g0157700	promoting heading date under SD	osFTL2  FT-Like2 homologous to Flowering Locus T  gene; contains Pfam profile PF01161%3A Phosphatidylethanolamine-binding protein, expressed	Chr6	2942292	C	A	Negative	抽穗期	在短日照下抽穗提前	负调控	视情况	Unknown	
+QTN84	Hd3a	Heading date	LOC_Os06g06320	Os06g0157700	promoting heading date	osFTL2  FT-Like2 homologous to Flowering Locus T  gene; contains Pfam profile PF01161%3A Phosphatidylethanolamine-binding protein, expressed	Chr6	2940130	A	T	Negative	抽穗期	抽穗提前	负调控	视情况	Unknown	
+QTN85	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9337101	CG	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN86	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9338220	CAAGA	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN87	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9338004	CTT	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN88	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9338243	C	T	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN89	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9337217	AGAAG	A	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN90	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	CCT%2FB-box zinc finger protein, putative, expressed	Chr6	9337239	G	GGTTAT	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN91	Ghd7/Hd4	Heading date	LOC_Os07g15770	Os07g0261200	promoting heading date under LD	NA	Chr7	9152377-9155030	Present (0|0)	Present (1|1)	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN92	Ghd7/Hd4	Heading date	LOC_Os07g15770	Os07g0261200	promoting heading date under LD	CCT motif family protein, expressed	Chr7	9152558	G	T	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN93	Ghd7/Hd4	Heading date	LOC_Os07g15770	Os07g0261200	promoting heading date under LD	CCT motif family protein, expressed	Chr7	9154664	C	A	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN94	Ghd7/Hd4	Heading date	LOC_Os07g15770	Os07g0261200	delaying heading date under LD	CCT motif family protein, expressed	Chr7	9152488	C	G	Positive	抽穗期	在长日照下抽穗延迟	正调控	视情况	Unknown	
+QTN95	Ghd7/Hd4	Heading date	LOC_Os07g15770	Os07g0261200	promoting heading date under LD	CCT motif family protein, expressed	Chr7	9154489	G	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN96	LOC_Os07g49460	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29623435	C	G	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN97	OsPRR37/Hd2/Ghd7.1	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29627357	AGAACGTTG	A	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN98	OsPRR37/Hd2/Ghd7.1	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29628481	T	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN99	OsPRR37/Hd2/Ghd7.1	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29628484	C	T	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN100	OsPRR37/Hd2/Ghd7.1	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29628500	T	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN101	OsPRR37/Hd2/Ghd7.1	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	response regulator receiver domain containing protein, expressed	Chr7	29628529	C	T	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN102	Hd18	Heading date	LOC_Os08g04780	Os08g0143400	delaying heading date	amine oxidase, putative, expressed	Chr8	2388554	T	C	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN103	Ghd8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4332836	A	ATGCCC	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN104	Ghd8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4334416	CT	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN105	DTH8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4333948	G	GTGTAGAGCGCGACA	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN106	DTH8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4334281	GGCCTTCTC	G	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN107	DTH8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4333871	A	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN108	DTH8	Heading date	LOC_Os08g07740	Os08g0174500	promoting heading date under LD	histone-like transcription factor and archaeal histone, putative, expressed	Chr8	4334626	CCCGCAGCCGCCGCCGCCAG	C	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN109	Ehd1	Heading date	LOC_Os10g32600	Os10g0463400	delaying heading date	MYB family transcription factor, putative, expressed	Chr10	17076177	T	C	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN110	Ehd1	Heading date	LOC_Os10g32600	Os10g0463400	delaying heading date	MYB family transcription factor, putative, expressed	Chr10	17077589	C	T	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN111	OsMADS56	Heading date	LOC_Os10g39130	Os10g0536100	promoting heading date under LD	OsMADS56 - MADS-box family gene with MIKCc type-box, expressed	Chr10	20872491	A	AT	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN112	RCN1	Heading date	LOC_Os11g05470	Os11g0152500	delaying heading date	NA	Chr11	2454121	C	T	Positive	抽穗期	抽穗延迟	正调控	视情况	Unknown	
+QTN113	MIR528/OsmiR528	Heading date	LOC_Os03g03724	Os03g0129400	promoting heading date under LD	NA	Chr3	1666408	A	ACTCGT	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN114	Hd1	Heading date	LOC_Os06g16370	Os06g0275000	promoting heading date under LD	NA	Chr6	9336853	T	NA	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN115	DTH7	Heading date	LOC_Os07g49460	Os07g0695100	promoting heading date under LD	NA	Chr7	29627388	G	NA	Negative	抽穗期	在长日照下抽穗提前	负调控	视情况	Unknown	
+QTN116	D2/CYP90D2/SMG11	Plant Architecture	LOC_Os01g10040	Os01g0197100	decreasing plant height	cytochrome P450, putative, expressed	Chr1	5244076	G	T	Negative	株型	降低株高	负调控	视情况	Unknown	
+QTN117	D61/OsBRI1	Plant Architecture	LOC_Os01g52050	Os01g0718300	larger flag leaf angle	systemin receptor SR160 precursor, putative, expressed	Chr1	29929465	G	A	Positive	株型	更大的旗叶角	正调控	不利	Inferior	
+QTN118	D61/OsBRI1	Plant Architecture	LOC_Os01g52050	Os01g0718300	larger flag leaf angle	systemin receptor SR160 precursor, putative, expressed	Chr1	29930698	C	T	Positive	株型	更大的旗叶角	正调控	不利	Inferior	
+QTN119	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	semi-dwarf	gibberellin 20 oxidase 2, putative, expressed	Chr1	38382761	CCGAGCACGGCGTCGACGCCGCTCTGGCGCGCGCCGCGCTCGACGGCGCCAGCGACTTCTTCCGCCTCCCGCTCGCCGAGAAGCGCCGCGCGCGCCGCGTCCCGGGCACCGTGTCCGGCTACACCAGCGCCCACGCCGACCGCTTCGCCTCCAAGCTCCCATGGAAGGAGACCCTCTCCTTCGGCTTCCACGACCGCGCCGCCGCCCCCGTCGTCGCCGACTACTTCTCCAGCACCCTCGGCCCCGACTTCGCGCCAATGGGGTAATTAAAACGATGGTGGACGACATTGCATTTCAAATTCAAAACAAATTCAAAACACACCGACCGAGATTATGCTGAATTCAAACGCGTTTGTGCGCGCAGGAGGGTGTACCAGAAGTACT	CA	Negative	株型	半矮化	负调控	视情况	Unknown	
+QTN120	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	semi-dwarf	gibberellin 20 oxidase 2, putative, expressed	Chr1	38382846	CCG	C	Negative	株型	半矮化	负调控	视情况	Unknown	
+QTN121	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	semi-dwarf	gibberellin 20 oxidase 2, putative, expressed	Chr1	38383141	TA	T	Negative	株型	半矮化	负调控	视情况	Unknown	
+QTN122	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	higher plant height	gibberellin 20 oxidase 2, putative, expressed	Chr1	38385057	A	G	Positive	株型	株高变高	正调控	视情况	Unknown	
+QTN123	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	semi-dwarf	gibberellin 20 oxidase 2, putative, expressed	Chr1	38385064	C	G	Negative	株型	半矮化	负调控	视情况	Unknown	
+QTN124	sd1	Plant Architecture	LOC_Os01g66100	Os01g0883800	flooding adaptation	gibberellin 20 oxidase 2, putative, expressed	Chr1	38381646	GTT	GT,G	Positive	株型	适应洪涝	正调控	有利	Superior	
+QTN125	ILI3/OsbHLH153	Plant Architecture	LOC_Os03g07540	Os03g0171700	increasing flag leaf angle	NA	Chr3	3845747	G	T	Positive	株型	增加旗叶角度	正调控	不利	Inferior	
+QTN126	SCM3/OsTB1	Plant Architecture	LOC_Os03g49880	Os03g0706500	increasing lodging resistance	TCP family transcription factor, putative, expressed	Chr3	28428731	G	GTGTA	Positive	株型	增加抗倒伏能力	正调控	有利	Superior	
+QTN127	SLR1/OsGAI/Slr1-d	Plant Architecture	LOC_Os03g49990	Os03g0707600	higher plant height	GRAS family transcription factor domain containing protein, expressed	Chr3	28513552	C	A	Positive	株型	株高变高	正调控	视情况	Unknown	
+QTN128	TAC3	Plant Architecture	LOC_Os03g51660	Os03g0726700	larger tiller angle	expressed protein	Chr3	29586015	A	C	Positive	株型	更大的分蘖角	正调控	不利	Inferior	
+QTN129	OsGSK2	Plant Architecture	LOC_Os05g11730	Os05g0207500	increasing mesocotyl length	CGMC_GSK.7 - CGMC includes CDA, MAPK, GSK3, and CLKC kinases, expressed	Chr5	6658027	C	T	Positive	株型	中胚轴长度增加	正调控	视情况	Unknown	
+QTN130	SBI/OsGA2ox4	Plant Architecture	LOC_Os05g43880	Os05g0514600	higher plant height	gibberellin 2-beta-dioxygenase, putative, expressed	Chr5	25515106	G	C	Positive	株型	株高变高	正调控	视情况	Unknown	
+QTN131	SCM2/APO1	Plant Architecture	LOC_Os06g45460	Os06g0665400	increasing lodging resistance	OsFBX202 - F-box domain containing protein, expressed	Chr6	27480778	G	C	Positive	株型	增加抗倒伏能力	正调控	有利	Superior	
+QTN132	APO1	Plant Architecture	LOC_Os06g45460	Os06g0665400	increasing grain number	OsFBX202 - F-box domain containing protein, expressed	Chr6	27484286	C	T	Positive	株型	增加粒数	正调控	有利	Superior	
+QTN133	TIG1	Plant Architecture	LOC_Os08g33530	Os08g0432300	smaller tiller angle	TCP family transcription factor, putative, expressed	Chr8	20930988	C	T	Negative	株型	较小的分蘖角	负调控	有利	Superior	
+QTN134	OsOTUB1/WTG1	Plant Architecture	LOC_Os08g42540	Os08g0537800	decreasing tiller number and increasing grain number	ubiquitin thioesterase otubain-like, putative, expressed	Chr8	26887943	C	T	Negative	株型	减少分蘖数，增加粒数	负调控	视情况	Unknown	
+QTN135	OsSPY	Plant Architecture	LOC_Os08g44510	Os08g0559300	increasing plant height	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY, putative, expressed	Chr8	27998573	G	T	Positive	株型	增加株高	正调控	视情况	Unknown	
+QTN136	OsTb2	Plant Architecture	LOC_Os09g24480	Os09g0410500	decreasing tiller number	TCP family transcription factor, putative, expressed	Chr9	14567436	CCGG	C	Negative	株型	减少分蘖数	负调控	不利	Inferior	
+QTN137	OsTb2	Plant Architecture	LOC_Os09g24480	Os09g0410500	increasing tiller number	TCP family transcription factor, putative, expressed	Chr9	14568100	T	C	Positive	株型	增加分蘖数	正调控	有利	Superior	
+QTN138	DEP1	Plant Architecture	LOC_Os09g26999	Os09g0441900	erect panicle and decreasing plant height	keratin-associated protein 5-4, putative, expressed	Chr9	16415007	TTTTCATGCTTCAAATCCCTGTACAGCTGCTTCAAGATCCCTTCATGCTTCAAGTCCCAGTGCAACTGCTCTAGCCCCAATTGCTGCACTTGCACCCTTCCAAGCTGTAGCTGCAAGGGCTGTGCCTGTCCAAGCTGTGGATGCAACGGCTGTGGCTGTCCAAGCTGCGGATGCAACGGTTGTGGCTGTCCAAGCTGCGGTTGCAACGGCTGTGGCCTTCCAAGCTGCGGTTGCAACGGCTGCGGCTCGTGCTCTTGCGCCCAATGCAAACCCGATTGTGGCTCGTGCTCTACCAATTGCTGTAGCTGCAAGCCAAGCTGCAACGGCTGCTGCGGCGAGCAGTGCTGCCGCTGCGCGGACTGCTTCTCCTGCTCGTGCCCTCGTTGCTCCAGCTGCTTCAACATCTTCAAATGCTCCTGCGCTGGCTGCTGCTCGAGCCTGTGCAAGTGCCCCTGCACGACGCAGTGCTTCAGCTGCCAGTCGTCATGCTGCAAGCGGCAGCCTTCGTGCTGCAAGTGCCAGTCGTCTTGCTGCGAGGGGCAGCCTTCCTGCTGCGAGGGACACTGCTGCAGCCTCCCGAAACCGTCGTGCCCTGAATGTTCCTGTGGGTGTGTCTGGTCTTGCAAGAATTGTACAGA	TAGATCCTTTTTT	Negative	株型	直立穗和株高降低	负调控	有利	Superior	
+QTN139	qRT9	Plant Architecture	LOC_Os09g28210	Os09g0455300	increasing root thickness and root length	bHelix-loop-helix transcription factor, putative, expressed	Chr9	17133004	CCGCCGCCGCCACCGG	C	Positive	株型	增加根粗和根长	正调控	有利	Superior	
+QTN140	TAC1	Plant Architecture	LOC_Os09g35980	Os09g0529300	larger tiller angle	expressed protein	Chr9	20731844	C	T	Positive	株型	更大的分蘖角	正调控	不利	Inferior	
+QTN141	OsbHLH174	Plant Architecture	LOC_Os10g26410	Os10g0403800	increasing flag leaf angle	NA	Chr10	13723265	A	G	Positive	株型	增加旗叶角度	正调控	不利	Inferior	
+QTN142	GATA28	Plant Architecture	LOC_Os11g08410	Os11g0187200	delaying heading date and increasing plant height	GATA zinc finger domain containing protein, expressed	Chr11	4433136	G	GGCGGCGTCGTCGTCGTCT	Positive	株型	推迟抽穗期，株高变高	正调控	视情况	Unknown	
+QTN143	TIPS-11-9	Plant Architecture	LOC_Os11g44950	Os11g0673200	decreasing lateral roots number	NA	Chr11	27206054	G	A	Negative	株型	减少侧根数	负调控	不利	Inferior	
+QTN144	DRO1	Plant Architecture	LOC_Os09g26840	Os09g0439800	decreasing root length and decreasing drought avoidance	NA	Chr9	16308324	A	NA	Negative	株型	减少根长，降低抗旱能力	负调控	不利	Inferior	
+QTN145	Rd/DFR/OsDfr	Seed Morphology	LOC_Os01g44260	Os01g0633500	light red seed coat	dihydroflavonol-4-reductase, putative, expressed	Chr1	25383832	G	GA	Positive	种子形态	浅红色种皮	正调控	有利	Superior	
+QTN146	Rd/DFR/OsDfr	Seed Morphology	LOC_Os01g44260	Os01g0633500	light red seed coat	dihydroflavonol-4-reductase, putative, expressed	Chr1	25382824	G	T	Positive	种子形态	浅红色种皮	正调控	有利	Superior	
+QTN147	Rd/DFR/OsDfr	Seed Morphology	LOC_Os01g44260	Os01g0633500	red seed coat	dihydroflavonol-4-reductase, putative, expressed	Chr1	25383093	A	C	Positive	种子形态	红色种皮	正调控	有利	Superior	
+QTN148	qSH1	Seed Morphology	LOC_Os01g62920	Os01g0848400	seed shattering	homeodomain protein, putative, expressed	Chr1	36461792	T	G	Negative	种子形态	落粒	负调控	不利	Inferior	
+QTN149	Awn3-1	Seed Morphology	LOC_Os03g30519	Os03g0418600	awn absent	NA	Chr3	17410000-17412951	Present (0|0)	Present (1|1)	Negative	种子形态	无芒	负调控	有利	Superior	
+QTN150	An-1	Seed Morphology	LOC_Os04g28280	Os04g0350700	awn absent	BEE 3, putative, expressed	Chr4	16734470	GC	G	Negative	种子形态	无芒	负调控	有利	Superior	
+QTN151	An-1	Seed Morphology	LOC_Os04g28280	Os04g0350700	awn present	BEE 3, putative, expressed	Chr4	16734743	GGGC	GGGCGGC,G	Positive	种子形态	有芒	正调控	不利	Inferior	
+QTN152	An-2/OsLOGL6/LABA1	Seed Morphology	LOC_Os04g43840	Os04g0518800	awn present	possible lysine decarboxylase domain containing protein, expressed	Chr4	25960486	C	CTAT	Positive	种子形态	有芒	正调控	不利	Inferior	
+QTN153	An-2/OsLOGL6/LABA1	Seed Morphology	LOC_Os04g43840	Os04g0518800	shorter awn	possible lysine decarboxylase domain containing protein, expressed	Chr4	25959585	TC	T	Negative	种子形态	缩短芒长	负调控	有利	Superior	
+QTN154	Kala4	Seed Morphology	LOC_Os04g47059	Os04g0557500	black seed coat	TRANSPARENT TESTA 8, putative, expressed	Chr4	27940807	A	<DEL>	Positive	种子形态	黑种皮	正调控	有利	Superior	
+QTN155	dep/GLR1/GL1	Seed Morphology	LOC_Os05g02730	Os05g0118700	glabrousness of rice leave glumes	homeobox domain containing protein, expressed	Chr5	990754	T	A	Negative	种子形态	颖壳无毛	负调控	有利	Superior	
+QTN156	OsC1	Seed Morphology	LOC_Os06g10350	Os06g0205100	colorless apiculus	NA	Chr6	5316554	C	CTGCAGGCTCCG	Negative	种子形态	无色尖端	负调控	不利	Inferior	
+QTN157	OsC1	Seed Morphology	LOC_Os06g10350	Os06g0205100	slight pigmentation apiculus	NA	Chr6	5315389	C	G	Positive	种子形态	针端有轻微色素沉着	正调控	有利	Superior	
+QTN158	OsC1	Seed Morphology	LOC_Os06g10350	Os06g0205100	colorless apiculus	NA	Chr6	5316049	ATC	A	Negative	种子形态	无色尖端	负调控	不利	Inferior	
+QTN159	OsC1	Seed Morphology	LOC_Os06g10350	Os06g0205100	colorless apiculus	NA	Chr6	5316058	TACTGGAACAG	T	Negative	种子形态	无色尖端	负调控	不利	Inferior	
+QTN160	OsC1	Seed Morphology	LOC_Os06g10350	Os06g0205100	colorless apiculus	NA	Chr6	5316231	AACGGCAGCGGCGGCGGCGGCGGCGACGACGACCACCGTGTGGGCG	AGCAGCCAGCCT	Negative	种子形态	无色尖端	负调控	不利	Inferior	
+QTN161	Hairy Leaf 6/HL6	Seed Morphology	LOC_Os06g44750	Os06g0657500	increasing grain weight and plant height	AP2 domain containing protein, expressed	Chr6	27024794	C	CCAAAGTTTAACAGTATAGT	Positive	种子形态	增加粒重和株高	正调控	有利	Superior	
+QTN162	Rc	Seed Morphology	LOC_Os07g11020	Os07g0211500	red seed coat	rc - bHLH transcription factor regulating proanthocyanidin production in seeds, expressed	Chr7	6068071	A	AACGCGAAAAGTCGG	Positive	种子形态	红色种皮	正调控	有利	Superior	
+QTN163	Rc	Seed Morphology	LOC_Os07g11020	Os07g0211500	red seed coat	rc - bHLH transcription factor regulating proanthocyanidin production in seeds, expressed	Chr7	6068017	C	A	Positive	种子形态	红色种皮	正调控	有利	Superior	
+QTN164	RAE2/GAD1	Seed Morphology	LOC_Os08g37890	Os08g0485500	awn present	expressed protein	Chr8	23999540	G	GC,GCCGC	Positive	种子形态	有芒	正调控	不利	Inferior	
+QTN165	RAE2/GAD1	Seed Morphology	LOC_Os08g37890	Os08g0485500	awn absent	expressed protein	Chr8	23999545	G	GC	Negative	种子形态	无芒	负调控	有利	Superior	
+QTN166	RAE2/GAD1	Seed Morphology	LOC_Os08g37890	Os08g0485500	awn absent	expressed protein	Chr8	23999487	G	C	Negative	种子形态	无芒	负调控	有利	Superior	
+QTN167	GLA	Seed Morphology	LOC_Os08g37890	Os08g0485500	increasing grain length	expressed protein	Chr8	23996438	T	TAGGTGTGGCATGGCAAACAAAGTGTGGCCAACAAATTGTTGGCCAC,C	Positive	种子形态	增加粒长	正调控	有利	Superior	
+QTN168	TGW3	Seed Morphology	LOC_Os03g62500	Os03g0841800	increasing grain length	NA	Chr3	35390424	T	NA	Positive	种子形态	增加粒长	正调控	有利	Superior	
+QTN169	OsAAP6	Taste quality	LOC_Os01g65670	Os01g0878700	increasing seed protein content	amino acid transporter, putative, expressed	Chr1	38137703	CTCTGTG	C	Positive	品质	提高种子蛋白质含量	正调控	有利	Superior	
+QTN170	Chalk5	Taste quality	LOC_Os05g06480	Os05g0156900	decreasing of chalkiness	inorganic H%2B pyrophosphatase, putative, expressed	Chr5	3339934	G	C	Negative	品质	减少垩白	负调控	有利	Superior	
+QTN171	OsACS6/SSG6	Taste quality	LOC_Os06g03990	Os06g0130400	more L-asparagine	aminotransferase, classes I and II, domain containing protein, expressed	Chr6	1633040	A	G	Positive	品质	更多 L-天冬酰胺	正调控	视情况	Unknown	
+QTN172	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	decreasing amylose content	starch synthase, putative, expressed	Chr6	1767613	G	A	Negative	品质	降低直链淀粉含量	负调控	视情况	Unknown	
+QTN173	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	decreasing amylose content	starch synthase, putative, expressed	Chr6	1765761	T	G	Negative	品质	降低直链淀粉含量	负调控	视情况	Unknown	
+QTN174	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	decreasing amylose content	starch synthase, putative, expressed	Chr6	1767637	A	G	Negative	品质	降低直链淀粉含量	负调控	视情况	Unknown	
+QTN175	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	increasing amylose content	starch synthase, putative, expressed	Chr6	1768006	A	C	Positive	品质	增加直链淀粉含量	正调控	视情况	Unknown	
+QTN176	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	increasing amylose content	starch synthase, putative, expressed	Chr6	1768998	C	T	Positive	品质	增加直链淀粉含量	正调控	视情况	Unknown	
+QTN177	Waxy/GBSSI	Taste quality	LOC_Os06g04200	Os06g0133000	glutinous rice	starch synthase, putative, expressed	Chr6	1767006	G	GCCACGGGTTCCAGGGCCTCAAGC	Positive	品质	糯米	正调控	视情况	Unknown	
+QTN178	ALK/SSSII	Taste quality	LOC_Os06g12450	Os06g0229800	increasing gelatinization temperature	soluble starch synthase 2-3, chloroplast precursor, putative, expressed	Chr6	6752756	A	G	Positive	品质	提高糊化温度	正调控	视情况	Unknown	
+QTN179	ALK/SSSII	Taste quality	LOC_Os06g12450	Os06g0229800	increasing gelatinization temperature	soluble starch synthase 2-3, chloroplast precursor, putative, expressed	Chr6	6752888	C	T	Positive	品质	提高糊化温度	正调控	视情况	Unknown	
+QTN180	fgr/Badh2	Taste quality	LOC_Os08g32870	Os08g0424500	fragrance	aldehyde dehydrogenase, putative, expressed	Chr8	20382858	AAAGAT	A	Positive	品质	香味	正调控	有利	Superior	
+QTN181	Badh2	Taste quality	LOC_Os08g32870	Os08g0424500	fragrance	aldehyde dehydrogenase, putative, expressed	Chr8	20379883	ATCG	A	Positive	品质	香味	正调控	有利	Superior	
+QTN182	Badh2	Taste quality	LOC_Os08g32870	Os08g0424500	fragrance	aldehyde dehydrogenase, putative, expressed	Chr8	20385593	T	TG	Positive	品质	香味	正调控	有利	Superior	
+QTN183	OsGluA2	Taste quality	LOC_Os10g26060	Os10g0400200	increasing protein content	glutelin, putative, expressed	Chr10	13500469	TTATTAGCGCATGATTAATTA	ATATTAGCGCATGATTAATTA,T	Positive	品质	增加蛋白质含量	正调控	有利	Superior	
+QTN184	Badh2	Taste quality	LOC_Os08g32870	Os08g0424500	fragrance	NA	Chr8	20380275	C	NA	Positive	品质	香味	正调控	有利	Superior	
+QTN185	OsUGT706D1	Secondary metabolism	LOC_Os01g53460	Os01g0736300	more 7-O-glucoside	anthocyanidin 5,3-O-glucosyltransferase, putative, expressed	Chr1	30712558	C	T	Positive	次生代谢	更多 7-O-葡萄糖苷	正调控	有利	Superior	
+QTN186	Trigonelline_gwas	Secondary metabolism	LOC_Os02g57760	Os02g0823400	fewer trigonelline	NA	Chr2	35370598	G	T	Negative	次生代谢	更少的三尖杉碱	负调控	视情况	Unknown	
+QTN187	OsUGT706C2	Secondary metabolism	LOC_Os03g62480	Os03g0841600	more tricin-lignan-glycosides	anthocyanidin 5,3-O-glucosyltransferase, putative, expressed	Chr3	35382034	T	A	Positive	次生代谢	更多的三尖杉木质素苷类	正调控	视情况	Unknown	
+QTN188	LOC_Os04g11970	Secondary metabolism	LOC_Os04g11970	Os04g0196200	more O-methylapigenin C-pentoside	NA	Chr4	6566248	G	GAC	Positive	次生代谢	更多 O-甲基芹菜甙元 C-戊糖苷	正调控	有利	Superior	
+QTN189	LOC_Os07g04970	Secondary metabolism	LOC_Os07g04970	Os07g0142700	fewer feruloylserotonin	NA	Chr7	2188914	G	A	Negative	次生代谢	减少阿魏酰舍罗通宁	负调控	不利	Inferior	
+QTN190	LOC_Os07g04970	Secondary metabolism	LOC_Os07g04970	Os07g0142700	fewer feruloylserotonin	NA	Chr7	2188863	C	G	Negative	次生代谢	减少阿魏酰舍罗通宁	负调控	不利	Inferior	
+QTN191	LOC_Os07g04970	Secondary metabolism	LOC_Os07g04970	Os07g0142700	fewer feruloylserotonin	NA	Chr7	2188150	A	G	Negative	次生代谢	减少阿魏酰舍罗通宁	负调控	不利	Inferior	
+QTN192	OsUGT707A2	Secondary metabolism	LOC_Os07g32060	Os07g0503900	more 5-O-glucoside	UDP-glucoronosyl%2FUDP-glucosyl transferase, putative, expressed	Chr7	19060398	C	T	Positive	次生代谢	更多 5-O-葡萄糖苷	正调控	有利	Superior	
+QTN193	OsUGT707A2	Secondary metabolism	LOC_Os07g32060	Os07g0503900	more 5-O-glucoside	UDP-glucoronosyl%2FUDP-glucosyl transferase, putative, expressed	Chr7	19061600	AC	A	Positive	次生代谢	更多 5-O-葡萄糖苷	正调控	有利	Superior	
+QTN194	OsUGT707A2	Secondary metabolism	LOC_Os07g32060	Os07g0503900	more 5-O-glucoside	NA	Chr7	19061609	CCCGTGCTGTCGTTCAA		Positive	次生代谢	更多 5-O-葡萄糖苷	正调控	有利	Superior	
+QTN195	OsAT4c	Secondary metabolism	LOC_Os09g37200	Os09g0544000	fewer N-feruloylputrescine	NA	Chr9	21464008	G	A	Negative	次生代谢	较少的 N-阿魏酰普托雷斯碱	负调控	不利	Inferior	
+QTN196	Os-TBT1	Secondary metabolism	LOC_Os11g42290	Os11g0642400	fewer benzoyl tryptamine	NA	Chr11	25467884	A	C	Negative	次生代谢	较少的苯甲酰色胺	负调控	不利	Inferior	
+QTN197	Os-TBT2	Secondary metabolism	LOC_Os11g42370	Os11g0643100	fewer cinnamoyl tryptamine	NA	Chr11	25501655	C	A	Negative	次生代谢	更少的肉桂酰色胺	负调控	不利	Inferior	
+QTN198	LOC_Os12g27220	Secondary metabolism	LOC_Os12g27220	NA	fewer N',N''-p-coumaroyl feruloyl spermidine	NA	Chr12	15970614	C	T	Negative	次生代谢	较少的N′，N′-对香豆醇阿魏酰亚精胺	负调控	不利	Inferior	
+QTN199	LOC_Os12g27254	Secondary metabolism	LOC_Os12g27254	Os12g0458100	fewer N',N''-p-coumaroyl feruloyl spermidine	NA	Chr12	15999119	G	A	Negative	次生代谢	较少的N′，N′-对香豆醇阿魏酰亚精胺	负调控	不利	Inferior	
+QTN200	LOC_Os12g27254	Secondary metabolism	LOC_Os12g27254	Os12g0458100	fewer N',N''-p-coumaroyl feruloyl spermidine	NA	Chr12	16005096	C	T	Negative	次生代谢	较少的N′，N′-对香豆醇阿魏酰亚精胺	负调控	不利	Inferior	
+QTN201	LOC_Os12g27254	Secondary metabolism	LOC_Os12g27254	Os12g0458100	fewer N',N''-p-coumaroyl feruloyl spermidine	NA	Chr12	15999070	C	T	Negative	次生代谢	较少的N′，N′-对香豆醇阿魏酰亚精胺	负调控	不利	Inferior	
+QTN202	GH3-2	Biotic Stress	LOC_Os01g55940	Os01g0764800	increasing blight resistance	OsGH3.2 - Probable indole-3-acetic acid-amido synthetase, expressed	Chr1	32220398	TCTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTATGTATGTATATGTA	<INS>	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN203	Pi64	Biotic Stress	LOC_Os01g57280	Os01g0781200	increasing blast resistance	NA	Chr1	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN204	Pi35	Biotic Stress	LOC_Os01g57340	Os01g0782100	increasing blast resistance	NA	Chr1	33144288	A	C	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN205	bsr-d1	Biotic Stress	LOC_Os03g32230	Os03g0437200	increasing blast resistance	NA	Chr3	18437564	T	C	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN206	Bph3	Biotic Stress	LOC_Os04g12540	Os04g0201900	increasing brown planthopper resistance	receptor-like protein kinase, putative, expressed	Chr4	6942614	T	C	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN207	Bph3	Biotic Stress	LOC_Os04g12560	Os04g0202300	increasing brown planthopper resistance	NA	Chr4	6956655	C	T	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN208	Bph3	Biotic Stress	LOC_Os04g12580	Os04g0202500	increasing brown planthopper resistance	NA	Chr4	6968474	A	G	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN209	Pi21	Biotic Stress	LOC_Os04g32850	Os04g0401000	increasing blast resistance	basic proline-rich protein, putative, expressed	Chr4	19835833	TCGGCGGCGGCTTCTC	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN210	Pi21	Biotic Stress	LOC_Os04g32850	Os04g0401000	increasing blast resistance	NA	Chr4	19836043	ACGGCGGCGGCGGCTGCGGCAG	A	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN211	PiPR1	Biotic Stress	LOC_Os04g53050	NA	decreasing blast tolerance	NA	Chr4	31600315	G	A	Negative	生物胁迫	减小抗稻瘟病能力	负调控	不利	Inferior	
+QTN212	PiPR1	Biotic Stress	LOC_Os04g53050	NA	decreasing blast tolerance	NA	Chr4	31602115	G	A	Negative	生物胁迫	减小抗稻瘟病能力	负调控	不利	Inferior	
+QTN213	PiPR1	Biotic Stress	LOC_Os04g53050	NA	decreasing blast tolerance	NA	Chr4	31602847	GAA	G	Negative	生物胁迫	减小抗稻瘟病能力	负调控	不利	Inferior	
+QTN214	Xa1	Biotic Stress	LOC_Os04g53120	Os04g0622600	increasing blight resistance	NA	Chr4	31640498	T	A	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN215	Xa1	Biotic Stress	LOC_Os04g53120	Os04g0622600	increasing blight resistance	NA	Chr4	31661301	G	A,T	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN216	Xa1	Biotic Stress	LOC_Os04g53120	Os04g0622600	increasing blight resistance	NA	Chr4	31662295	G	T	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN217	xa5	Biotic Stress	LOC_Os05g01710	Os05g0107700	increasing blight resistance	transcription initiation factor IIA gamma chain, putative, expressed	Chr5	437499	T	A	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN218	BPH29	Biotic Stress	LOC_Os06g01860	Os06g0107800	increasing brown planthopper resistance	expressed protein	Chr6	485049	T	TCGCCGCCGCCGC	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN219	Pi50	Biotic Stress	LOC_Os06g17900	Os06g0286700	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	10389573	G	A	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN220	Pi9	Biotic Stress	LOC_Os06g17900	Os06g0286700	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	10389270	C	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN221	Piz-t	Biotic Stress	LOC_Os06g17900	Os06g0286700	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	10389855	C	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN222	Pi2	Biotic Stress	LOC_Os06g17900	Os06g0286700	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	10389734	T	A	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN223	Pid3-A4	Biotic Stress	LOC_Os06g22460	Os06g0330100	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	13058843	GCCCTGAAGA	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN224	Pi25|Pid3	Biotic Stress	LOC_Os06g22460	Os06g0330100	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	13055819	A	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN225	Pi25|Pid3	Biotic Stress	LOC_Os06g22460	Os06g0330100	increasing blast resistance	disease resistance protein RPM1, putative, expressed	Chr6	13057570	A	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN226	Pi-d2/Pid2	Biotic Stress	LOC_Os06g29810	Os06g0494100	increasing blast resistance	lectin protein kinase family protein, putative, expressed	Chr6	17161791	C	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN227	eIF4G	Biotic Stress	LOC_Os07g36940	Os07g0555200	increasing resistance to tungro spherical virus	eukaryotic translation initiation factor 4G, putative, expressed	Chr7	22119347	ATGT	A,GTGT	Positive	生物胁迫	提高对UNGRO球形病毒的抵抗力	正调控	有利	Superior	
+QTN228	eIF4G	Biotic Stress	LOC_Os07g36940	Os07g0555200	increasing resistance to tungro spherical virus	eukaryotic translation initiation factor 4G, putative, expressed	Chr7	22119350	T	C,*	Positive	生物胁迫	提高对UNGRO球形病毒的抵抗力	正调控	有利	Superior	
+QTN229	Xa13	Biotic Stress	LOC_Os08g42350	Os08g0535200	increasing blight resistance	nodulin MtN3 family protein, putative, expressed	Chr8	26729913	TTTCATCATAAGTCAGTTCTG	T	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN230	OsCERK1	Biotic Stress	LOC_Os08g42580	Os08g0538300	increasing blast resistance	protein kinase domain containing protein, expressed	Chr8	26909531	T	C	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN231	Pii/HIT7/pi5-1	Biotic Stress	LOC_Os09g15840	Os09g0327600	increasing blast resistance	NA	Chr9	9672381	A	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN232	Pii/HIT7/pi5-1	Biotic Stress	LOC_Os09g15840	Os09g0327600	increasing blast resistance	NA	Chr9	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN233	Pi5-2	Biotic Stress	LOC_Os09g15850	Os09g0327800	increasing blast resistance	NA	Chr9	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN234	Pi56	Biotic Stress	LOC_Os09g16000	Os09g0328951	increasing blast resistance	NA	Chr9	9779736	A	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN235	Pia/RGA4	Biotic Stress	LOC_Os11g11790	Os11g0225100	increasing blast resistance	NA	Chr11	6543950	C	G	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN236	Pi-CO39/RGA4	Biotic Stress	LOC_Os11g11790	Os11g0225100	increasing blast resistance	NA	Chr11	6544171	G	A	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN237	Pia/RGA5	Biotic Stress	LOC_Os11g11810	Os11g0225300	increasing blast resistance	NA	Chr11	6554829	T	A	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN238	LHCB5	Biotic Stress	LOC_Os11g13890	Os11g0242800	increasing blast resistance	chlorophyll A-B binding protein, putative, expressed	Chr11	7659694	T	C	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN239	STV11/OsSOT1	Biotic Stress	LOC_Os11g30910	Os11g0505300	increasing resistance to rice stripe virus	sulfotransferase domain containing protein, expressed	Chr11	17985707	A	T	Positive	生物胁迫	增强对水稻条纹病毒的抵抗力	正调控	有利	Superior	
+QTN240	Xa21	Biotic Stress	LOC_Os11g35500	Os11g0559200	increasing blight resistance	receptor-like protein kinase 5 precursor, putative, expressed	Chr11	20805203	CCGGAATCTT	C	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN241	Xa23_cds	Biotic Stress	LOC_Os11g37620	Os11g0586701	increasing blight resistance	NA	Chr11	22203734-22204676	Ref	<INS>	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN242	Pb1	Biotic Stress	LOC_Os11g38480	Os11g0597700	increasing blast resistance	NA	Chr11	22800220	A	AGAAAGGCTTTG	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN243	Pi54/Pi-kh	Biotic Stress	LOC_Os11g42010	Os11g0639100	increasing blast resistance	NA	Chr11	25263992	C	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN244	Pik-1_cds	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN245	Pikm1-TS_cds	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN246	Pikh-1_cds	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN247	Pikp-1_cds	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN248	Pi1-5_cds	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN249	Pik-2_cds	Biotic Stress	LOC_Os11g46210	Os11g0689100	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN250	Pikp-2_cds	Biotic Stress	LOC_Os11g46210	Os11g0689100	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN251	Pi1-6_cds	Biotic Stress	LOC_Os11g46210	Os11g0689100	increasing blast resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN252	Xa26/Xa3	Biotic Stress	LOC_Os11g47210	Os11g0694850	increasing blight resistance	NA	Chr11	28399471	G	A	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN253	Xa26/Xa3	Biotic Stress	LOC_Os11g47210	Os11g0694850	increasing blight resistance	NA	Chr11	28399720	A	G	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN254	Xa4	Biotic Stress	LOC_Os11g31190	Os11g0508600	increasing blight resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN255	Pi-ta	Biotic Stress	LOC_Os12g18360	Os12g0281300	increasing blast resistance	NB-ARC domain containing protein, expressed	Chr12	10607554	A	C	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN256	Ptr	Biotic Stress	LOC_Os12g18729	Os12g0285100	increasing blast resistance	expressed protein	Chr12	10833368	TAAAAA	T	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN257	xa25	Biotic Stress	LOC_Os12g29220	Os12g0476200	decreasing blight resistance	nodulin MtN3 family protein, putative, expressed	Chr12	17302804	G	A	Negative	生物胁迫	降低抗枯萎病能力	负调控	不利	Inferior	
+QTN258	OsSWEET13/xa25	Biotic Stress	LOC_Os12g29220	Os12g0476200	decreasing blight resistance	nodulin MtN3 family protein, putative, expressed	Chr12	17305353	CT	CTT,C	Negative	生物胁迫	降低抗枯萎病能力	负调控	不利	Inferior	
+QTN259	BPH9-1	Biotic Stress	LOC_Os12g37280	Os12g0559400	increasing brown planthopper resistance	NA	Chr12	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN260	BPH9-7	Biotic Stress	LOC_Os12g37280	Os12g0559400	increasing brown planthopper resistance	NA	Chr12	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN261	BPH9-9	Biotic Stress	LOC_Os12g37280	Os12g0559400	increasing brown planthopper resistance	NA	Chr12	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN262	BPH26	Biotic Stress	LOC_Os12g37280	Os12g0559400	increasing brown planthopper resistance	NA	Chr12	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN263	Pi63	Biotic Stress	NA	NA	increasing blast resistance	NA	Chr4	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN264	Pib	Biotic Stress	NA	NA	increasing blast resistance	NA	Chr2	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN265	PigmR	Biotic Stress	NA	NA	decreasing blast tolerance and increasing setting rate	NA	Chr6	<MNP>	Ref	<MNP>	Negative	生物胁迫	降低抗稻瘟病能力，提高结实率	负调控	视情况	Unknown	
+QTN266	PigmS	Biotic Stress	NA	NA	decreasing blast tolerance and increasing setting rate	NA	Chr6	<MNP>	Ref	<MNP>	Negative	生物胁迫	降低抗稻瘟病能力，提高结实率	负调控	视情况	Unknown	
+QTN267	Xa10	Biotic Stress	NA	NA	increasing blight resistance	NA	Chr11	<MNP>	Ref	<MNP>	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN268	Pit	Biotic Stress	LOC_Os01g05620	Os01g0149500	increasing blast resistance	NA	Chr1	2685244	T	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN269	Pi37	Biotic Stress	LOC_Os01g57310	Os01g0781700	increasing blast resistance	NA	Chr1	33121214	T	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN270	Bph14	Biotic Stress	LOC_Os03g63150	Os03g0848700	increasing resistance to brown planthopper	NA	Chr3	35715431	G	NA	Positive	生物胁迫	增强褐飞虱的抗性	正调控	有利	Superior	
+QTN271	Bph6	Biotic Stress	LOC_Os04g35210	Os04g0431700	increasing resistance to planthoppers	NA	Chr4	<MNP>	NA	NA	Positive	生物胁迫	提高对蚜虫的抵抗力	正调控	有利	Superior	
+QTN272	Xa27	Biotic Stress	LOC_Os06g39810	 Os06g0599600	increasing blight resistance	NA	Chr6	23655403	T	NA	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN273	OsSWEET14/xa41	Biotic Stress	LOC_Os11g31190	Os11g0508600	increasing blight resistance	NA	Chr11	18174478	T	NA	Positive	生物胁迫	增强抗枯萎病能力	正调控	有利	Superior	
+QTN274	Pi54rh	Biotic Stress	LOC_Os11g42010	Os11g0639100	increasing blast resistance	NA	Chr11	26264182	T	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN275	Pi54of	Biotic Stress	LOC_Os11g42010	Os11g0639100	increasing blast resistance	NA	Chr11	25264296	G	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN276	Pikx-1	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	cds	NA	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN277	Pike1	Biotic Stress	LOC_Os11g46200	Os11g0689000	increasing blast resistance	NA	Chr11	27978757	A	NA	Positive	生物胁迫	增强抗稻瘟病能力	正调控	有利	Superior	
+QTN278	Os-HKT1;5/SKC1	Abiotic Stress	LOC_Os01g20160	Os01g0307500	increasing salt tolerance	OsHKT1;5 - Na%2B transporter, expressed	Chr1	11462725	C	T	Positive	非生物胁迫	提高耐盐性	正调控	有利	Superior	
+QTN279	CYP72A31/BST	Abiotic Stress	LOC_Os01g41800	Os01g0602200	increasing herbicides tolerance	NA	Chr1	23663634	GT	G	Positive	非生物胁迫	提高除草剂耐受性	正调控	有利	Superior	
+QTN280	OsCBL10	Abiotic Stress	LOC_Os01g51420	Os01g0711500	decreasing flooding tolerance	calcineurin B, putative, expressed	Chr1	29568422	GGCC	G	Negative	非生物胁迫	降低抗淹能力	负调控	不利	Inferior	
+QTN281	OsPP15	Abiotic Stress	LOC_Os01g62760	Os01g0846300	increasing drought tolerance	protein phosphatase 2C, putative, expressed	Chr1	36346000	T	C	Positive	非生物胁迫	提高抗旱性	正调控	有利	Superior	
+QTN282	NRAT1	Abiotic Stress	LOC_Os02g03900	Os02g0131800	decreasing Al tolerance	metal transporter Nramp6, putative, expressed	Chr2	1663821	G	A	Negative	非生物胁迫	降低铝耐受性	负调控	不利	Inferior	
+QTN283	OsHMA4	Abiotic Stress	LOC_Os02g10290	Os02g0196600	preventing copper accumulation	copper-transporting ATPase, putative, expressed	Chr2	5410205	T	C	Negative	非生物胁迫	防止铜积累	负调控	有利	Superior	
+QTN284	HIS1	Abiotic Stress	LOC_Os02g17940	Os02g0280700	decreasing herbicide tolerance	NA	Chr2	10389082	CATCAGGAACCAAAAGAATTAGAGACGAT		Negative	非生物胁迫	除草剂耐受性降低	负调控	不利	Inferior	
+QTN285	hbd2/OsCKI1/LTG1/LTRPK1	Abiotic Stress	LOC_Os02g40860	Os02g0622100	decreasing chilling tolerance	CK1_CaseinKinase_1.5 - CK1 includes the casein kinase 1 kinases, expressed	Chr2	24771726	T	A	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN286	CAL1	Abiotic Stress	LOC_Os02g41904	Os02g0629800	preventing cd accumulation	DEF7 - Defensin and Defensin-like DEFL family, expressed	Chr2	25190881	C	G	Negative	非生物胁迫	防止镉积累	负调控	有利	Superior	
+QTN287	qLTG3-1	Abiotic Stress	LOC_Os03g01320	Os03g0103300	decreasing low-temperature germinability ability	LTPL116 - Protease inhibitor%2Fseed storage%2FLTP family protein precursor, expressed	Chr3	220180	AGGCGGTGGCGGTGGCGGT	A	Negative	非生物胁迫	降低低温发芽能力	负调控	不利	Inferior	
+QTN288	qLTG3-1	Abiotic Stress	LOC_Os03g01320	Os03g0103300	decreasing low-temperature germinability ability	LTPL116 - Protease inhibitor%2Fseed storage%2FLTP family protein precursor, expressed	Chr3	220111	CCTCCACTTCTTCACCTTCTCCGACGCGTGCGGCTGCCAGTGCGGCTCATGCCCTAGTCCCGGCGGAGGAGG	C	Negative	非生物胁迫	降低低温发芽能力	负调控	不利	Inferior	
+QTN289	OsCd1	Abiotic Stress	LOC_Os03g02380	Os03g0114800	cadmium accumulation	NA	Chr3	846037	T	A	Positive	非生物胁迫	镉积累	正调控	不利	Inferior	
+QTN290	OsMYB2	Abiotic Stress	LOC_Os03g20090	Os03g0315400	decreasing cold tolerance	MYB family transcription factor, putative, expressed	Chr3	11326677	G	A	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN291	CTB4a	Abiotic Stress	LOC_Os04g04330	Os04g0132500	increasing chilling tolerance	receptor-like protein kinase 2 precursor, putative, expressed	Chr4	2032882	C	G	Positive	非生物胁迫	提高耐寒性	正调控	有利	Superior	
+QTN292	BET1	Abiotic Stress	LOC_Os04g40140	Os04g0477300	increasing boron-toxicity tolerance	expressed protein	Chr4	23886659	G	GT	Positive	非生物胁迫	增加对硼毒性的耐受性	正调控	有利	Superior	
+QTN293	COLD1	Abiotic Stress	LOC_Os04g51180	Os04g0600800	decreasing chilling tolerance	GPR89A, putative, expressed	Chr4	30315214	T	A,G	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN294	OsHKT1;1	Abiotic Stress	LOC_Os04g51820	Os04g0607500	increasing root sodium content	OsHKT1;1 - Na%2B transporter, expressed	Chr4	30726195	T	C	Positive	非生物胁迫	增加根钠含量	正调控	不利	Inferior	
+QTN295	OsJAZ1	Abiotic Stress	LOC_Os04g55920	Os04g0653000	decreasing root length and weight	zinc-finger protein, putative, expressed	Chr4	33304910	A	G	Negative	非生物胁迫	减少根长和根重	负调控	不利	Inferior	
+QTN296	OsHKT2;1	Abiotic Stress	LOC_Os06g48810	Os06g0701700	lower potassium use efficiency	OsHKT2;1 - Na%2B transporter, expressed	Chr6	29539670	T	C	Negative	非生物胁迫	钾利用效率降低	负调控	不利	Inferior	
+QTN297	OsHKT2;1	Abiotic Stress	LOC_Os06g48810	Os06g0701700	lower potassium use efficiency	OsHKT2;1 - Na%2B transporter, expressed	Chr6	29540384	GC	G	Negative	非生物胁迫	钾利用效率降低	负调控	不利	Inferior	
+QTN298	OsHMA3	Abiotic Stress	LOC_Os07g12900	Os07g0232900	high cadmium accumulation	cadmium%2Fzinc-transporting ATPase, putative, expressed	Chr7	7409315	C	T	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN299	OsHMA3	Abiotic Stress	LOC_Os07g12900	Os07g0232900	high cadmium accumulation	cadmium%2Fzinc-transporting ATPase, putative, expressed	Chr7	7407917	T	G	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN300	qGMN7.1/OsNRAMP5	Abiotic Stress	LOC_Os07g15370	Os07g0257200	high cadmium accumulation	metal transporter Nramp6, putative, expressed	Chr7	8878858	AG	A	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN301	qGMN7.1/OsNRAMP5	Abiotic Stress	LOC_Os07g15370	Os07g0257200	high cadmium accumulation	metal transporter Nramp6, putative, expressed	Chr7	8879641	A	G	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN302	OsSAP16	Abiotic Stress	LOC_Os07g38240	Os07g0569700	increasing resistance to tungro spherical virus	ZOS7-05 - C2H2 zinc finger protein, expressed	Chr7	22930113	T	C	Positive	非生物胁迫	增强对UNGRO球形病毒的抵抗力	正调控	有利	Superior	
+QTN303	Os-MOT1;1	Abiotic Stress	LOC_Os08g01120	Os08g0101500	decreasing molybdenum accumulation	sulfate transporter, putative, expressed	Chr8	86089	T	C	Negative	非生物胁迫	减少钼的积累	负调控	有利	Superior	
+QTN304	OsTPP7	Abiotic Stress	LOC_Os09g20390	Os09g0369400	increasing anaerobic germination tolerance	uncharacterized glycosyl hydrolase Rv2006%2FMT2062, putative, expressed	Chr9	12251074	A	AAT	Positive	非生物胁迫	提高厌氧萌发耐受性	正调控	有利	Superior	
+QTN305	OsTPP7	Abiotic Stress	LOC_Os09g20390	Os09g0369400	increasing anaerobic germination tolerance	NA	Chr9	12251875-12254061	Present (0|0)	Present (1|1)	Positive	非生物胁迫	提高厌氧萌发耐受性	正调控	有利	Superior	
+QTN306	bZIP73	Abiotic Stress	LOC_Os09g29820	Os09g0474000	decreasing chilling tolerance	bZIP transcription factor domain containing protein, expressed	Chr9	18122850	C	T	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN307	qUVR-10	Abiotic Stress	LOC_Os10g08580	Os10g0167600	decreasing UV-B tolerance	FAD binding domain of DNA photolyase domain containing protein, expressed	Chr10	4665777	C	G	Negative	非生物胁迫	紫外线-B 耐受力下降	负调控	不利	Inferior	
+QTN308	qUVR-10	Abiotic Stress	LOC_Os10g08580	Os10g0167600	increasing UV-B tolerance	FAD binding domain of DNA photolyase domain containing protein, expressed	Chr10	4666493	C	T	Positive	非生物胁迫	紫外线-B 耐受力下降	正调控	不利	Inferior	
+QTN309	DCA1	Abiotic Stress	LOC_Os10g31850	Os10g0456800	increasing drought tolerance	RING finger and CHY zinc finger domain-containing protein 1, putative, expressed	Chr10	16705740	T	TA	Positive	非生物胁迫	提高抗旱性	正调控	有利	Superior	
+QTN310	OsLTPL159	Abiotic Stress	LOC_Os10g36160	Os10g0505500	dereasing chilling tolerance	LTPL159 - Protease inhibitor%2Fseed storage%2FLTP family protein precursor, expressed	Chr10	19330694	G	A	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN311	HAN1	Abiotic Stress	LOC_Os11g29290	Os11g0483000	decreasing chilling tolerance	cytochrome P450, putative, expressed	Chr11	16984309	A	G	Negative	非生物胁迫	耐寒性降低	负调控	不利	Inferior	
+QTN312	HAN1	Abiotic Stress	LOC_Os11g29290	Os11g0483000	losing chilling tolerance	NA	Chr11	16984564	Ref	<INS>	Negative	非生物胁迫	失去耐寒性	负调控	不利	Inferior	
+QTN313	Nced	Abiotic Stress	LOC_Os12g24800	Os12g0435200	increasing lateral roots number	9-cis-epoxycarotenoid dioxygenase 1, chloroplast precursor, putative, expressed	Chr12	14233796	C	T	Positive	非生物胁迫	增加侧根数	正调控	有利	Superior	
+QTN314	SNORKEL1	Abiotic Stress	NA	NA	adaptation to deep water	NA	Chr12	<MNP>	Ref	<MNP>	Positive	非生物胁迫	适应深水环境	正调控	有利	Superior	
+QTN315	SNORKEL2	Abiotic Stress	NA	NA	adaptation to deep water	NA	Chr12	<MNP>	Ref	<MNP>	Positive	非生物胁迫	适应深水环境	正调控	有利	Superior	
+QTN316	Sub1A	Abiotic Stress	NA	NA	submergence tolerance	NA	Chr9	<MNP>	Ref	<MNP>	Positive	非生物胁迫	耐淹没性	正调控	有利	Superior	
+QTN317	OsHMA3	Abiotic Stress	LOC_Os07g12900	Os07g0232900	high cadmium accumulation	NA	Chr7	7407452	C	NA	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN318	OsHMA3	Abiotic Stress	LOC_Os07g12900	Os07g0232900	high cadmium accumulation	NA	Chr7	7405948	T	NA	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN319	OsHMA3	Abiotic Stress	LOC_Os07g12900	Os07g0232900	high cadmium accumulation	NA	Chr7	7407338	T	NA	Positive	非生物胁迫	高镉积累	正调控	不利	Inferior	
+QTN320	OsNPF6.1	Others	LOC_Os01g01360	Os01g0103100	higher nitrogen use efficiency	NA	Chr1	178766	G	A	Positive	其他	更高的氮利用效率	正调控	有利	Superior	
+QTN321	psr1	Others	LOC_Os01g25484	Os01g0357100	increasing regeneration ablility	NA	Chr1	14452591	G	C,T	Positive	其他	提高再生能力	正调控	有利	Superior	
+QTN322	psr1	Others	LOC_Os01g25484	Os01g0357100	increasing regeneration ablility	NA	Chr1	14452823	T	G	Positive	其他	提高再生能力	正调控	有利	Superior	
+QTN323	SLB1	Others	LOC_Os01g50520	Os01g0700900	fewer strigolactone	NA	Chr1	29020797-29025975	Present (0|0)	Present (1|1)	Negative	其他	减少半乳糖内酯	负调控	视情况	Unknown	
+QTN324	SLB2	Others	LOC_Os01g50580	Os01g0701400	fewer strigolactone	NA	Chr1	29036327-29041621	Present (0|0)	Present (1|1)	Negative	其他	减少半乳糖内酯	负调控	视情况	Unknown	
+QTN325	OsPME1	Others	LOC_Os01g57854	Os01g0788400	more MeOH-Jasmonates	NA	Chr1	33453244	C	T	Positive	其他	更多的 MeOH-茉莉酮	正调控	视情况	Unknown	
+QTN326	OsPsbS1	Others	LOC_Os01g64960	Os01g0869800	decreasing nonphotochemical quenching	NA	Chr1	37694037	A	<DEL>	Negative	其他	减少非光化学猝灭	负调控	视情况	Unknown	
+QTN327	OsTSD2	Others	LOC_Os02g51860	Os02g0755000	more MeOH-Jasmonates	dehydration response related protein, putative, expressed	Chr2	31768358	A	G	Positive	其他	更多的 MeOH-茉莉酮	正调控	视情况	Unknown	
+QTN328	OsNR2	Others	LOC_Os02g53130	Os02g0770800	higher nitrogen use efficiency	nitrate reductase, putative, expressed	Chr2	32514337	A	T	Positive	其他	更高的氮利用效率	正调控	有利	Superior	
+QTN329	BOC1	Others	LOC_Os03g12820	Os03g0230300	callus browning	ATP8, putative, expressed	Chr3	6894836	CT	C	Negative	其他	愈伤组织褐变	负调控	不利	Inferior	
+QTN330	qSE3/OsHAK21	Others	LOC_Os03g37930	Os03g0576200	increasing salt tolerance	potassium transporter, putative, expressed	Chr3	21067004	C	T	Positive	其他	提高耐盐性	正调控	有利	Superior	
+QTN331	Phr1	Others	LOC_Os04g53300	Os04g0624500	grains turns brown in phenol solution	NA	Chr4	31751160	G	GTGCTCGTCATCGAGGGGA	Positive	其他	谷物在苯酚溶液中变成褐色	正调控	不利	Inferior	
+QTN332	Sdr4	Others	LOC_Os07g39700	Os07g0585700	decreasing sprouting	expressed protein	Chr7	23797131	A	C	Negative	其他	减少发芽	负调控	不利	Inferior	
+QTN333	LOC_Os07g39700	Others	LOC_Os07g39700	Os07g0585700	increasing sprouting	expressed protein	Chr7	23796771	GC	G	Positive	其他	增加发芽	正调控	有利	Superior	
+QTN334	LOC_Os07g39700	Others	LOC_Os07g39700	Os07g0585700	increasing sprouting	expressed protein	Chr7	23797130	G	T	Positive	其他	增加发芽	正调控	有利	Superior	
+QTN335	ARE1	Others	LOC_Os08g12780	Os08g0224300	higher nitrogen use efficiency	NA	Chr8	7573789	G	GAGAAGA,GAGA	Positive	其他	更高的氮利用效率	正调控	有利	Superior	
+QTN336	ARE1	Others	LOC_Os08g12780	Os08g0224300	higher nitrogen use efficiency	NA	Chr8	7573877	G	GGGCGGT	Positive	其他	更高的氮利用效率	正调控	有利	Superior	
+QTN337	NRT1.1B	Others	LOC_Os10g40600	Os10g0554200	higher nitrogen use efficiency	peptide transporter PTR2, putative, expressed	Chr10	21759092	G	A	Positive	其他	更高的氮利用效率	正调控	有利	Superior	
+QTN338	TOND1	Others	LOC_Os12g43440	Os12g0630100	increasing tolerance to nutrition	thaumatin, putative, expressed	Chr12	26956807	G	C	Positive	其他	提高对营养的耐受力	正调控	有利	Superior	
+QTN339	PSTOL1	Others	NA	NA	increasing phosphorus tolerance	NA	Chr12	<MNP>	Ref	<MNP>	Positive	其他	提高对磷的耐受性	正调控	有利	Superior	
+QTN340	orf79/ORF79/orfH79	Others	NA	NA	cytoplasmic male sterility	NA	mitochondrial	NA	NA	NA	Negative	其他	细胞质雄性不育	负调控	视情况	Unknown	
+QTN341	orf182	Others	NA	NA	cytoplasmic male sterility	NA	mitochondrial	NA	NA	NA	Negative	其他	细胞质雄性不育	负调控	视情况	Unknown	
+QTN342	WA352	Others	NA	NA	cytoplasmic male sterility	NA	mitochondrial	NA	NA	NA	Negative	其他	细胞质雄性不育	负调控	视情况	Unknown	
+QTN343	SDR3.1	Abiotic Stress	LOC_Os03g11550	Os03g0214200	inhibit seed dormancy	Mediator of OsbZIP46 deactivation and degradation	Chr3	5992227	C	G	Negative	非生物胁迫	抑制种子休眠，降低穗发芽	负调控	有利	Superior	
+QTN344	SDR3.1	Abiotic Stress	LOC_Os03g11550	Os03g0214200	inhibit seed dormancy	Mediator of OsbZIP46 deactivation and degradation	Chr3	5989133	C	T	Negative	非生物胁迫	抑制种子休眠，降低穗发芽	负调控	有利	Superior	
+QTN345	OsUBC12	Abiotic Stress	LOC_Os05g38550	Os05g0460200	enhances cold tolerance during japonica rice germination	ubiquitin-conjugating enzyme E2	Chr5	22615300	C	<6kb转座子插入>	Positive	非生物胁迫	增强粳稻萌发过程中的耐寒性	正调控	有利	Superior	
+QTN346	EPN4	Yield components	LOC_Os04g52479	Os04g0615000	increase effective panicle number	Narrow leaf1; trypsin-like serine/cysteine protease; large vascular bundle phloem area 4	Chr4	31212801	G	A	Positive	产量	增加有效穗数	正调控	有利	Superior	
+QTN347	LG1	Plant Architecture	LOC_Os04g56170	Os04g0656500	leading to a transformation in spike architecture from a tightly packed to a loosely arranged panicle structure	liguleless gene; SQUAMOSA PROMOTER BINDING PROTEIN LIKE gene	Chr4	33477824	A	<48bp缺失>	Positive	株型	穗型由紧穗变为散穗	正调控	不利	Inferior	
+QTN348	tgw5/D1	Seed Morphology	LOC_Os05g26890	Os05g0333200	increase panicle numbers and spikelet density per panicle	G protein alpha subunit; heterotrimeric G protein α subunit; Gα subunit; daikoku dwarf; dwarf-1; dwarf 89	Chr5	15610712	T	A	Positive	种子形态	粒型变短，穗粒数增加	正调控	有利	Superior	
+QTN349	OsSPL10	Abiotic Stress	LOC_Os06g44860	Os06g0659100	improve crop glufosinate and stress resistance	SQUAMOSA PROMOTER BINDING PROTEIN-LIKE10	Chr6	27115670	C	T	Negative	非生物胁迫	增强草铵膦抗性	负调控	有利	Superior	
+QTN350	GSE9	Seed Morphology	LOC_Os09g06719	Os09g0242600	controls rice grain shape by regulating both cell expansion and cell proliferation	expressed protein	Chr9	3196608	A	G	Positive	种子形态	籽粒变长变窄（籼粳差异位点）	正调控	视情况	Unknown	
+QTN351	GSW3	Seed Morphology	LOC_Os03g42920	NA	reduce rice grain length	expressed protein, encodes an atypical G-protein and negatively regulates the grain size and weight by increasing longitudinal cell length and transverse cell numbers of the glume in rice	Chr3	23938664	A	G	Negative	种子形态	导致粒长变短，减少千粒重	负调控	不利	Inferior	
+QTN352	GSW3	Seed Morphology	LOC_Os03g42920	NA	reduce rice grain length	expressed protein, encodes an atypical G-protein and negatively regulates the grain size and weight by increasing longitudinal cell length and transverse cell numbers of the glume in rice	Chr3	23938436	G	<232bp插入>	Negative	种子形态	负调节籽粒大小	负调控	不利	Inferior	
+QTN353	OsGA2ox9	Abiotic Stress	LOC_Os02g41954	Os02g41954	inhibit seed dormancy	gibberellin 2-oxidase; C20 GA 2-oxidase	Chr2	25199540	A	G	Negative	非生物胁迫	抑制种子休眠，降低穗发芽	负调控	有利	Superior	
+QTN354	OsGA2ox9	Abiotic Stress	LOC_Os02g41954	Os02g41954	inhibit seed dormancy	gibberellin 2-oxidase; C20 GA 2-oxidase	Chr2	25203213	C	T	Negative	非生物胁迫	抑制种子休眠，降低穗发芽	负调控	有利	Superior	
+QTN355	OsGA2ox9	Abiotic Stress	LOC_Os02g41954	Os02g41954	inhibit seed dormancy	gibberellin 2-oxidase; C20 GA 2-oxidase	Chr2	25203531	T	C	Negative	非生物胁迫	抑制种子休眠，降低穗发芽	负调控	有利	Superior	
+QTN356	OsUGT75A	Abiotic Stress	LOC_Os11g25990	Os11g0446700	enhance flooding tolerance by increasing coleoptile length during rice germination	indole-3-acetate beta-glucosyltransferase; UDP-glucosyltransferase	Chr11	14850366	A	G	Positive	非生物胁迫	促进水稻种子萌发过程中的耐淹性	正调控	有利	Superior	
+QTN357	OsUGT75A	Abiotic Stress	LOC_Os11g25990	Os11g0446700	enhance flooding tolerance by increasing coleoptile length during rice germination	indole-3-acetate beta-glucosyltransferase; UDP-glucosyltransferase	Chr11	14849038	G	A	Positive	非生物胁迫	促进水稻种子萌发过程中的耐淹性	正调控	有利	Superior	
+QTN358	TN1	Plant Architecture	LOC_Os01g42460	Os01g0610300	negatively regulate tiller number in rice	tiller number 1; ANTI-SILENCING 1; Increased Bonsai Methylation 2	Chr1	24139033	G	A	Negative	株型	抑制分蘖生长	负调控	不利	Inferior	
+QTN359	OsMADS56	Seed Morphology	LOC_Os10g39130	Os10g0536100	result in long grain size	MADS-box transcription	Chr10	20862494	G	A	Positive	种子形态	增加粒长	正调控	有利	Superior	
+QTN360	COLDF	Abiotic Stress	LOC_Os08g36000	Os08g0462200	enhance cold tolerance	OsFBL51 - F-box domain and LRR containing protein, expressed	Chr8	22689418	C	A	Positive	非生物胁迫	增强耐寒性	正调控	有利	Superior	
